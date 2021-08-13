@@ -1,4 +1,5 @@
 Forms/secrets.py
+.env/
 # Django #
 *.log
 *.pot
